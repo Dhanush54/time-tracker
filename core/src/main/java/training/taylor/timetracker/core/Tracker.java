@@ -1,5 +1,4 @@
 package training.taylor.timetracker.core;
-#change
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
@@ -37,7 +36,7 @@ public class Tracker {
         boolean valid = false;
 
         if (valid = true) {
-            // whatever
+            // whatever is done
         }
 
         return entries.get(index);
